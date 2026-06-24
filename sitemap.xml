@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<url>
+  <loc>https://goldenseedexport.com/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://goldenseedexport.com/"/>
+</url>
+<url>
+  <loc>https://goldenseedexport.com/products.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/products.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/products.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/products.html"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/products.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://goldenseedexport.com/products.html"/>
+</url>
+<url>
+  <loc>https://goldenseedexport.com/about.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/about.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/about.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/about.html"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/about.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://goldenseedexport.com/about.html"/>
+</url>
+<url>
+  <loc>https://goldenseedexport.com/quote.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/quote.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/quote.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/quote.html"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/quote.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://goldenseedexport.com/quote.html"/>
+</url>
+<url>
+  <loc>https://goldenseedexport.com/contact.html</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/contact.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://goldenseedexport.com/contact.html"/>
+</url>
+
+<url>
+  <loc>https://goldenseedexport.com/es/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/"/>
+</url>
+<url><loc>https://goldenseedexport.com/es/products.html</loc></url>
+<url><loc>https://goldenseedexport.com/es/about.html</loc></url>
+<url><loc>https://goldenseedexport.com/es/quote.html</loc></url>
+<url><loc>https://goldenseedexport.com/es/contact.html</loc></url>
+
+<url>
+  <loc>https://goldenseedexport.com/fr/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/"/>
+</url>
+<url><loc>https://goldenseedexport.com/fr/products.html</loc></url>
+<url><loc>https://goldenseedexport.com/fr/about.html</loc></url>
+<url><loc>https://goldenseedexport.com/fr/quote.html</loc></url>
+<url><loc>https://goldenseedexport.com/fr/contact.html</loc></url>
+
+<url>
+  <loc>https://goldenseedexport.com/de/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://goldenseedexport.com/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://goldenseedexport.com/es/"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://goldenseedexport.com/fr/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://goldenseedexport.com/de/"/>
+</url>
+<url><loc>https://goldenseedexport.com/de/products.html</loc></url>
+<url><loc>https://goldenseedexport.com/de/about.html</loc></url>
+<url><loc>https://goldenseedexport.com/de/quote.html</loc></url>
+<url><loc>https://goldenseedexport.com/de/contact.html</loc></url>
+
+</urlset>
